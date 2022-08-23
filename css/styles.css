@@ -1,3 +1,12 @@
 h4 {
+
     margin: 10 vh 10 vw;
+}
+img {
+    width: 1em;
+    margin: 10 vh 100 vw;
+    width: 40%; }
+
+p {
+    margin: 20 vh 200 vw;
 }
