@@ -3,9 +3,8 @@ h4 {
     margin: 10 vh 10 vw;
 }
 img {
-    width: -4em;
-    margin: 10 vh 100 vw;
-    width: 40%; }
+    width: 40px;
+    margin: 10 vh 100 vw; }
 
 p {
     margin: 20 vh 200 vw;
