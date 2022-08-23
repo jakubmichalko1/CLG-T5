@@ -2,10 +2,13 @@ h4 {
 
     margin: 10 vh 10 vw;
 }
-img {
-    width: 40px;
-    margin: 10 vh 100 vw; }
+
 
 p {
     margin: 20 vh 200 vw;
+}
+
+.social-site {
+    width: 40px;
+    margin: 10 vh 100 vw;
 }
