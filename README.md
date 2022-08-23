@@ -1,8 +1,16 @@
 
 # CLG-T5
+<<<<<<< HEAD
 Amalie
 ja taky
 ayaka
+
+=======
+ja taky
+hiiiiii
+ hfh
+ Ahoj Ami
+ 
 
 
 <html>
