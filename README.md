@@ -1,16 +1,3 @@
-
-
-# CLG-T5
-
-
-
-ja taky
-hiiiiii
- hfh
- Ahoj Ami
- 
-
-
 <html>
 
 <head>
@@ -24,5 +11,3 @@ hiiiiii
 </body>
 
 </html>
-
-oihsfhaskjfsaf
