@@ -10,5 +10,4 @@
 <h1>TŘIĎ ŠETRNĚJI</h1>
 </div>
 </body>
-
 </html>
