@@ -36,7 +36,7 @@ img {
 .social-site {
     width: 40px;
     margin: 10 vh 100 vw;
-    
+
 }
 
 body {
@@ -64,6 +64,10 @@ h1 {
     text-align: center;
 }
 
-
-
-
+.contrast {
+    background-color: rgb (235, 234, 225);
+    color: black;
+    display: flex;
+    align-items: normal;
+    flex-direction: column;
+}
