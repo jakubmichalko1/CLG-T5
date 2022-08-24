@@ -124,6 +124,13 @@ p {
     margin-bottom: 4px;
 }
 
+
+.cesi {
+    font-weight: bold;
+    text-align: center;
+    font-size: 2em;
+}
+
 h1 {
     padding-top: 2.5em;
 }
