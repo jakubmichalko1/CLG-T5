@@ -1,5 +1,5 @@
 h4 {
-    margin: 2vh 0vw;
+    margin: 1vh 1vw;
     font-size: 1.2em;
 }
 
@@ -48,11 +48,11 @@ body {
 }
 
 h4 {
-    text-align: center;
+    text-align: left;
 }
 
 .text {
-    text-align: center;
+    text-align: justify;
     display: flex;
     flex-direction: row;
 }
