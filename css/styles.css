@@ -59,6 +59,34 @@ h4 {
     text-align: center;
 
 }
+
 h1 {
     text-align: center;
+}
+
+button {
+    background-color: rgb(11, 52, 84);
+    border: rgb(205, 227, 214);
+    color: rgb(205, 227, 214);
+    width: 25%;
+    height: 10%;
+    float: left;
+    margin-bottom: 1em;
+}
+
+.galerie {}
+
+.galerie-button {
+    background-color: rgb(11, 52, 84);
+    color: rgb(205, 227, 214);
+    width: 40%;
+    height: 6em;
+    position: center;
+    border-color: rgb(205, 227, 214);
+    border: 5xp solid screen;
+    margin: 0.5vh 0.5vw;
+}
+
+p {
+    width: 90%;
 }
