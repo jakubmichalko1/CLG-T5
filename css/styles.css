@@ -1,8 +1,20 @@
 h4 {
+
     margin: 10 vh 10 vw;
 }
+<<<<<<< HEAD
 
 .menu {
     display: flex;
     justify-content: space-evenly;
 }
+=======
+img {
+    width: -4em;
+    margin: 10 vh 100 vw;
+    width: 40%; }
+
+p {
+    margin: 20 vh 200 vw;
+}
+>>>>>>> 314693c21ac714868faafe4edf3d35fd4584efe7
