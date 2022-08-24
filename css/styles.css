@@ -36,6 +36,7 @@ img {
 .social-site {
     width: 40px;
     margin: 10 vh 100 vw;
+    background-color: white;
 }
 
 body {
@@ -58,6 +59,18 @@ h4 {
     text-align: center;
 
 }
+
 h1 {
     text-align: center;
+}
+
+
+
+div.contrast {
+    background-color: whitesmoke;
+    color: black;
+    display: flex;
+    align-items: normal;
+    flex-direction: column;
+
 }
