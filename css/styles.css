@@ -64,10 +64,6 @@ h1 {
     text-align: center;
 }
 
-.contrast {
-    background-color: rgb (235, 234, 225);
-    color: black;
-    display: flex;
-    align-items: normal;
-    flex-direction: column;
+.social-strap {
+    background-color: white;
 }
