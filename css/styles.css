@@ -59,11 +59,11 @@ h4 {
 
 .deti {
     text-align: center;
-
 }
 
 h1 {
     text-align: center;
+    margin-top: 8em;
 }
 
 button {
@@ -71,19 +71,36 @@ button {
     border: rgb(205, 227, 214);
     color: rgb(205, 227, 214);
     width: 25%;
-    height: 10%;
+    height: 15%;
     float: left;
     margin-bottom: 1em;
+    transition-duration: 0.4s;
+    font-size: large;
+    padding: 10px;
+}
+
+button:hover {
+    background-color: rgb(205, 227, 214);
+    color: rgb(11, 52, 84);
+}
+
+.galerie {
+    display: flex;
+    justify-content: center;
+}
+
+.galerie-content {
+    width: 80%;
 }
 
 .galerie-button {
     background-color: rgb(11, 52, 84);
     color: rgb(205, 227, 214);
-    width: 40%;
+    width: 45%;
     height: 6em;
     position: center;
     border-color: rgb(205, 227, 214);
-    border: 5xp solid screen;
+    border: 5px solid screen;
     margin: 0.5vh 0.5vw;
 }
 
