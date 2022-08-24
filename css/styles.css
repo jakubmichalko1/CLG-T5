@@ -22,6 +22,7 @@ img {
 .odsazeni {
     margin: 10 vh 10 vw;
     padding: 0 20px;
+    text-align: center;
 }
 
 
@@ -33,4 +34,12 @@ img {
 body {
     color: black;
     font-family: Tahoma;
+}
+
+h4 {
+    text-align: center;
+}
+
+.text {
+    text-align: center;
 }
