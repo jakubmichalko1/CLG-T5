@@ -1,5 +1,6 @@
 h4 {
-    margin: 10vh 10vw;
+    margin: 2vh 0vw;
+    font-size: 1.2em;
 }
 
 
@@ -15,9 +16,9 @@ img {
 }
 
 
-p {
-    margin: 20 vh 200 vw;
-    padding: 0 20xp;
+.odsazeni {
+    margin: 10 vh 10 vw;
+    padding: 0 20px;
 }
 
 
