@@ -3,6 +3,9 @@ h4 {
     font-size: 1.2em;
 }
 
+h2 {
+    margin: 2vh 0vw;
+}
 
 .menu {
     display: flex;
@@ -26,6 +29,7 @@ img {
 .odsazeni {
     margin: 10 vh 10 vw;
     padding: 0 20px;
+    text-align: center;
 }
 
 
@@ -37,5 +41,20 @@ img {
 body {
     color: black;
     font-family: Tahoma;
+
     background-color: #cde3d6;
+
+}
+
+h4 {
+    text-align: center;
+}
+
+.text {
+    text-align: center;
+}
+
+.deti {
+    text-align: center;
+
 }
