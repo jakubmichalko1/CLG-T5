@@ -69,3 +69,18 @@ h1 {
 .social-strap {
     background-color: white;
 }
+
+.ano {
+    color: green;
+    font-weight: bold;
+}
+
+.ne {
+    color: red;
+    font-weight: bold;
+}
+
+.odstavec {
+    margin-top: 4px;
+    margin-bottom: 4px;
+}
