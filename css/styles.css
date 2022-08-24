@@ -36,7 +36,7 @@ img {
 .social-site {
     width: 40px;
     margin: 10 vh 100 vw;
-    background-color: white;
+
 }
 
 body {
@@ -53,6 +53,8 @@ h4 {
 
 .text {
     text-align: center;
+    display: flex;
+    flex-direction: row;
 }
 
 .deti {
@@ -74,8 +76,6 @@ button {
     margin-bottom: 1em;
 }
 
-.galerie {}
-
 .galerie-button {
     background-color: rgb(11, 52, 84);
     color: rgb(205, 227, 214);
@@ -89,4 +89,20 @@ button {
 
 p {
     width: 90%;
+    background-color: white;
+}
+
+.ano {
+    color: green;
+    font-weight: bold;
+}
+
+.ne {
+    color: red;
+    font-weight: bold;
+}
+
+.odstavec {
+    margin-top: 4px;
+    margin-bottom: 4px;
 }
