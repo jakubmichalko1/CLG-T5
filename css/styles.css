@@ -27,3 +27,7 @@ img {
     margin: 10 vh 100 vw;
 }
 
+body {
+    color: black;
+    font-family: Tahoma;
+}
