@@ -54,6 +54,7 @@ body {
     text-align: justify;
     display: flex;
     flex-direction: row;
+    margin-right: 50px;
 }
 
 .deti {
@@ -139,9 +140,21 @@ h1 {
 
 .nadpisjak {
     padding: 0 10px;
-
 }
 
 .kontakt {
     margin-bottom: 2px;
+}
+
+.jakuvod {
+    text-align: justify;
+    padding: 0 10px;
+}
+
+.procuvod {
+    padding: 0 20px;
+}
+
+.onas {
+    margin-top: 30px;
 }
