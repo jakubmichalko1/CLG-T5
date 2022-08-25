@@ -6,6 +6,7 @@ h4 {
 
 h2 {
     margin: 2vh 0vw;
+    padding: 0 20px;
 }
 
 .menu {
@@ -118,6 +119,7 @@ p {
 .odstavec {
     margin-top: 4px;
     margin-bottom: 4px;
+    padding: 0 40px;
 }
 
 
@@ -130,4 +132,8 @@ p {
 
 h1 {
     padding-top: 2.5em;
+}
+
+.nadpisjak {
+    padding: 0 10px;
 }
