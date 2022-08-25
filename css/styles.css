@@ -164,3 +164,16 @@ h1 {
     text-align: left;
 
 }
+
+.vedlesebe {
+    display: flex;
+    flex-direction: row;
+}
+
+.deti {
+    padding: 100px;
+}
+
+div.img {
+    width: 500%;
+}
