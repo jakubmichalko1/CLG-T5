@@ -126,11 +126,37 @@ p {
 
 
 .cesi {
-    font-weight: bold;
-    text-align: center;
-    font-size: 1.5em;
-    width: 60%;
-    margin-top: 4px;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: justify;
+    font-size: 1.3em;
+    margin-top: 45px;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-right: 50px;
+    width: 657px;
+}
+
+.cesi2 {
+    font-family: 'Times New Roman', Times, serif;
+    text-align: right;
+    font-size: 1em;
+    margin-top: 1px;
+    padding-left: 20px;
+    width: 650px;
+}
+
+.roosevelt {
+    width: 200px;
+    padding-top: 20px;
+    padding-right: 80px;
+}
+
+.citat {
+    display: flex;
+}
+
+.citatpod {
+    width: 74%;
 }
 
 h1 {
@@ -156,10 +182,21 @@ h1 {
 }
 
 .onas {
-    margin-top: 30px;
+    margin-top: 20px;
+}
+
+.txtonas {
+    margin-top: 35px;
 }
 
 .social-kontakt {
     text-align: left;
+}
 
+.logo {
+    margin-left: 20px;
+}
+
+.planet {
+    width: 100%;
 }
