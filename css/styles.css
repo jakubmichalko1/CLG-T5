@@ -19,6 +19,7 @@ h2 {
     background-size: cover;
     width: 100%;
     height: 200px;
+    text-align: center;
 }
 
 img {
@@ -139,11 +140,4 @@ h1 {
 .nadpisjak {
     padding: 0 10px;
 
-}
-
-.kovybanner {
-    background-image: url(../img/kovy_banner.jpg);
-    background-size: cover;
-    width: 100%;
-    height: 200px;
 }
