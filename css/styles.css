@@ -1,6 +1,7 @@
 h4 {
     margin: 1vh 1vw;
     font-size: 1.2em;
+    text-align: left;
 }
 
 h2 {
@@ -47,10 +48,6 @@ body {
 
 }
 
-h4 {
-    text-align: left;
-}
-
 .text {
     text-align: justify;
     display: flex;
@@ -59,11 +56,11 @@ h4 {
 
 .deti {
     text-align: center;
-
 }
 
 h1 {
     text-align: center;
+    margin-top: 8em;
 }
 
 button {
@@ -71,25 +68,42 @@ button {
     border: rgb(205, 227, 214);
     color: rgb(205, 227, 214);
     width: 25%;
-    height: 10%;
+    height: 15%;
     float: left;
     margin-bottom: 1em;
+    transition-duration: 0.4s;
+    font-size: large;
+    padding: 10px;
+}
+
+button:hover {
+    background-color: rgb(205, 227, 214);
+    color: rgb(11, 52, 84);
+}
+
+.galerie {
+    display: flex;
+    justify-content: center;
+}
+
+.galerie-content {
+    width: 80%;
 }
 
 .galerie-button {
     background-color: rgb(11, 52, 84);
     color: rgb(205, 227, 214);
-    width: 40%;
+    width: 45%;
     height: 6em;
     position: center;
     border-color: rgb(205, 227, 214);
-    border: 5xp solid screen;
+    border: 5px solid screen;
     margin: 0.5vh 0.5vw;
 }
 
 p {
     width: 90%;
-    background-color: white;
+    background-color: rgb(205, 227, 214);
 }
 
 .ano {
@@ -111,10 +125,10 @@ p {
 .cesi {
     font-weight: bold;
     text-align: center;
-    font-size: 2em;
+    font-size: 1.5em;
+    width: 60%;
 }
 
 h1 {
     padding-top: 2.5em;
 }
-
