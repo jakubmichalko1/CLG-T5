@@ -134,7 +134,7 @@ p {
     padding-left: 20px;
     padding-right: 20px;
     margin-right: 50px;
-    width: 657px;
+
 }
 
 .cesi2 {
@@ -143,21 +143,24 @@ p {
     font-size: 1em;
     margin-top: 1px;
     padding-left: 20px;
-    width: 650px;
+
 }
 
 .roosevelt {
     width: 200px;
     padding-top: 20px;
-    padding-right: 80px;
+    padding-right: 20px;
 }
 
 .citat {
+    text-align: justify;
     display: flex;
+    flex-direction: row;
+    margin-right: 50px;
 }
 
 .citatpod {
-    width: 74%;
+    width: 90%;
 }
 
 h1 {
